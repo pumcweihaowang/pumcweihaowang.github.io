@@ -31,9 +31,7 @@ Publication
 Project Experience
 ------
 * **GovHack Website 2019**
-
 Full STACK DEVELOPMENT (Jul. 2018 - Nov. 2018)
-
 GovHack is an open data hackathon, focused on unlocking the value in open data published by government. Due to the increasing scale ofcompetition and participants, the current website no longer satisfies the functionalities demand of users and complex usage scenarios.
   * Deployed on AWS EC2 instance, connecting to AWS RDS database service.
   * Adopted Codeigniter as PHP back-end framework and PostgreSQL as database management system.
