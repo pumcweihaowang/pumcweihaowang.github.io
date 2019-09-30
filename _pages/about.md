@@ -15,44 +15,96 @@ His research interests mainly include zero-shot learning, image generation, imag
 
 Teaching Experience
 ======
-Semester 1, 2019 - INFS3202/7202 Web information systems
+* Semester 1, 2019 - INFS3202/7202 Web information systems
 
-Semester 2, 2019 - INFS3208/7208 Cloud Computing
+* Semester 2, 2019 - INFS3208/7208 Cloud Computing
 
-Semester 1, 2020 - Master Thesis Project
+* Semester 1, 2020 - Master Thesis Project
 
 Publication
 ======
 
 * **Zhi Chen**, Zi Huang, Jingjing Li, Zheng Zhang, Ruihong Qiu, Does Generalized Zero-shot Learning Need to be Handled in a Generalized perspective, submmitted to AAAI 2020
-
 * **Zhi Chen**, Jingjing Li, Yadan Luo, Zi Huang, Yang Yang, [CANZSL: Cycle-Consistent Adversarial Networks for Zero-Shot Learning from Natural Language]("https://arxiv.org/pdf/1909.09822"), WACV 2020
-
 * Jie Wen, Zheng Zhang, **Zhi Chen**, Li Liu, Zi Huang, Lunke Fei, Generalized IncompleteMulti-view Clustering with Flexible Locality Structure Diffusion, Under Review In IEEE Transaction on Multimedia
-
 * **Zhi Chen**, Yadan Luo, [Cycle-Consistent Diverse Image Synthesis from Natural Language]("https://ieeexplore.ieee.org/iel7/8777006/8794861/08795022.pdf"), ICMEW 2019
 
 
 Project Experience
 ------
+* **GovHack Website 2019**
 
+Full STACK DEVELOPMENT
 
-Create content & metadata
+GovHack is an open data hackathon, focused on unlocking the value in open data published by government. Due to the increasing scale ofcompetition and participants, the current website no longer satisfies the functionalities demand of users and complex usage scenarios.
+
+•Deployed on AWS EC2 instance, connecting to AWS RDS database service.
+•Adopted Codeigniter as PHP back-end framework and PostgreSQL as database management system.
+•Developed with Agile Framework Scrum, which effectively boosts productivity of development team.
+•Enriched more functionalities than the 2018 website, enabled competitor users to participate in challenges online.
+
+* **Pump System Automatic Calculation**
+
+FULL STACK DEVELOPMENT
+
+Australia has a strict standard of drainage system rules, houses in different latitude and longitude with various sizes of roof have to match apump and pipe of a specific configuration. The current solution for picking pipe and pump is using a spread sheet, which is not user-friendly.I am developing a web interface for company Urban Environmental Solutions, enabling users to check a matched size of pump and pipe byentering their house informations.
+
+•Working as part-time IT consultant of Urban Environmental Solutions to meet with their client, and analyse their requirements individually.
+
+•Proposed a technical solution for this web interface.
+
+•Gained urban engineering knowledge by participating in this project.
+
+* **Interior Design Company Website Development**
+
+FULL STACK DEVELOPMENT
+
+I led a three person team building a complete website for ESY interior design. The website enables clients to view previous decoration casesand communicate with staff online.
+
+•Achieved Project Excellence Awards in course Web Information System in UQ with this project
+
+•Implemented in-site search and online chat by Web Crawler and Web socket respectively.
+
+•Hosted on AWS, with LAMP stack.
+
+* **Germinator: Rise of the Machines** 
+
+JAVA GAME DEVELOPMENT (Jul. 2018 - Nov. 2018)
+
+This project aims to develop a multi-player game in Java which is very similar to Some features in PUGB and the Flat Earthers Society. It isworth mentioning that the game is developed by a 40 person team, and using KANBAN as agile developing framework to reduce the chance oflarge-scale failures.
+
+•UQ ITEE Innovation Showcase 2018 Nominee
+
+•Developed on Java game engine Libgdx, improved code quality by SonarQube, automated the non-human part of the software developmentprocess by Jenkins, and used version control tool SourceTree.
+
+•Was in charge of AI spawning and Database management aspects.
+
+•Available: https://gitlab.com/uqdeco2800/deco2800-2018-naziah
+
+* **Koala Sighting Website Proposal** 
+PROPOSED FOR DEPARTMENT OF ENVIRONMENT AND SCIENCE, QUEENSLAND GOVERNMENT.(Feb. 2018 - Jul. 2018)
+As koalas become endangered, it is urgent to take actions to protect them. The department of Environment and Science is in charge of leadingthe development of science strategy for government. In order to collect more data about koala behavior in Queensland and for further analysis,a website is to be built for public to report koala sighting.
+•Proposed feasible solutions for the website including high fidelity prototype, user experience, budget management, etc.
+•Provided technical consultation to the representative in Department of Environment and Science.
+
+Internship
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Research Institute of Robot Intelligent Technology, Jinan University (Guangzhou, China)
+RESEARCH ASSISTANTDec. 2017 - Jan. 2018
+•Adopted deep learning in 3D cloud point detection problem.
+•Surveyed state-of-the-art 3D deep learning methods.
+•Performed data preprocessing of industrial material for object detection.
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Honours & Awards
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**MASTER PERIOD**
+* 2018 S2 Dean’s Commendation for Academic Excellence, Faculty of EAIT
+* 2018 S1Dean’s Commendation for Academic Excellence, Faculty of EAIT
+* 2018 Project Excellence Awards, Project Demonstration in UQ course INFS3202
+* 2017 S1Dean’s Commendation for Academic Excellence,Faculty of EAIT
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**BACHELOR PERIOD**
+* 2016 Excellent Graduate, Anhui University of Finance and Economics
+* 2015 Pacemaker to Merit Student, Anhui University of Finance and Economics
+* 2015 First Prize for Excellent Study, Students’ Affairs Office, Anhui University of Finance and Economics
+* 2014 Excellent Student Leader, Anhui University of Finance and Economics
