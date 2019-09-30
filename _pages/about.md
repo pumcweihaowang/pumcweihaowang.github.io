@@ -33,67 +33,48 @@ Publication
 Project Experience
 ------
 * **GovHack Website 2019**
-
-Full STACK DEVELOPMENT
-
+Full STACK DEVELOPMENT (Jul. 2018 - Nov. 2018)
 GovHack is an open data hackathon, focused on unlocking the value in open data published by government. Due to the increasing scale ofcompetition and participants, the current website no longer satisfies the functionalities demand of users and complex usage scenarios.
-
-•Deployed on AWS EC2 instance, connecting to AWS RDS database service.
-•Adopted Codeigniter as PHP back-end framework and PostgreSQL as database management system.
-•Developed with Agile Framework Scrum, which effectively boosts productivity of development team.
-•Enriched more functionalities than the 2018 website, enabled competitor users to participate in challenges online.
+• Deployed on AWS EC2 instance, connecting to AWS RDS database service.
+• Adopted Codeigniter as PHP back-end framework and PostgreSQL as database management system.
+• Developed with Agile Framework Scrum, which effectively boosts productivity of development team.
+• Enriched more functionalities than the 2018 website, enabled competitor users to participate in challenges online.
 
 * **Pump System Automatic Calculation**
-
-FULL STACK DEVELOPMENT
-
+FULL STACK DEVELOPMENT (Jul. 2018 - Under Maintainance)
 Australia has a strict standard of drainage system rules, houses in different latitude and longitude with various sizes of roof have to match apump and pipe of a specific configuration. The current solution for picking pipe and pump is using a spread sheet, which is not user-friendly.I am developing a web interface for company Urban Environmental Solutions, enabling users to check a matched size of pump and pipe byentering their house informations.
-
-•Working as part-time IT consultant of Urban Environmental Solutions to meet with their client, and analyse their requirements individually.
-
-•Proposed a technical solution for this web interface.
-
-•Gained urban engineering knowledge by participating in this project.
+• Working as part-time IT consultant of Urban Environmental Solutions to meet with their client, and analyse their requirements individually.
+• Proposed a technical solution for this web interface.
+• Gained urban engineering knowledge by participating in this project.
 
 * **Interior Design Company Website Development**
-
-FULL STACK DEVELOPMENT
-
+FULL STACK DEVELOPMENT(Feb. 2018 - Jul. 2018)
 I led a three person team building a complete website for ESY interior design. The website enables clients to view previous decoration casesand communicate with staff online.
-
-•Achieved Project Excellence Awards in course Web Information System in UQ with this project
-
-•Implemented in-site search and online chat by Web Crawler and Web socket respectively.
-
-•Hosted on AWS, with LAMP stack.
+• Achieved Project Excellence Awards in course Web Information System in UQ with this project
+• Implemented in-site search and online chat by Web Crawler and Web socket respectively.
+• Hosted on AWS, with LAMP stack.
 
 * **Germinator: Rise of the Machines** 
-
 JAVA GAME DEVELOPMENT (Jul. 2018 - Nov. 2018)
-
 This project aims to develop a multi-player game in Java which is very similar to Some features in PUGB and the Flat Earthers Society. It isworth mentioning that the game is developed by a 40 person team, and using KANBAN as agile developing framework to reduce the chance oflarge-scale failures.
-
-•UQ ITEE Innovation Showcase 2018 Nominee
-
-•Developed on Java game engine Libgdx, improved code quality by SonarQube, automated the non-human part of the software developmentprocess by Jenkins, and used version control tool SourceTree.
-
-•Was in charge of AI spawning and Database management aspects.
-
-•Available: https://gitlab.com/uqdeco2800/deco2800-2018-naziah
+• UQ ITEE Innovation Showcase 2018 Nominee
+• Developed on Java game engine Libgdx, improved code quality by SonarQube, automated the non-human part of the software developmentprocess by Jenkins, and used version control tool SourceTree.
+• Was in charge of AI spawning and Database management aspects.
+• Available: https://gitlab.com/uqdeco2800/deco2800-2018-naziah
 
 * **Koala Sighting Website Proposal** 
 PROPOSED FOR DEPARTMENT OF ENVIRONMENT AND SCIENCE, QUEENSLAND GOVERNMENT.(Feb. 2018 - Jul. 2018)
 As koalas become endangered, it is urgent to take actions to protect them. The department of Environment and Science is in charge of leadingthe development of science strategy for government. In order to collect more data about koala behavior in Queensland and for further analysis,a website is to be built for public to report koala sighting.
-•Proposed feasible solutions for the website including high fidelity prototype, user experience, budget management, etc.
-•Provided technical consultation to the representative in Department of Environment and Science.
+• Proposed feasible solutions for the website including high fidelity prototype, user experience, budget management, etc.
+• Provided technical consultation to the representative in Department of Environment and Science.
 
 Internship
 ------
 Research Institute of Robot Intelligent Technology, Jinan University (Guangzhou, China)
 RESEARCH ASSISTANTDec. 2017 - Jan. 2018
-•Adopted deep learning in 3D cloud point detection problem.
-•Surveyed state-of-the-art 3D deep learning methods.
-•Performed data preprocessing of industrial material for object detection.
+• Adopted deep learning in 3D cloud point detection problem.
+• Surveyed state-of-the-art 3D deep learning methods.
+• Performed data preprocessing of industrial material for object detection.
 
 Honours & Awards
 ------
