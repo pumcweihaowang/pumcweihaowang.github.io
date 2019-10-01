@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Zhi Chen is a currently a PhD student in School of ITEE, The University of Queensland, supervised by [A/Prof. Helen Huang]("http://staff.itee.uq.edu.au/huang/"). He also received his Master degree from the University of Queensland.
+Zhi Chen is a currently a PhD student in School of ITEE, The University of Queensland, supervised by [A/Prof. Helen Huang](http://staff.itee.uq.edu.au/huang/). He also received his Master degree from the University of Queensland.
 
 His research interests mainly include zero-shot learning, image generation, image captioning, computer vision & deep learning.
 
@@ -23,9 +23,9 @@ Publication
 ======
 
 
-* **Zhi Chen**, Jingjing Li, Yadan Luo, Zi Huang, Yang Yang, [CANZSL: Cycle-Consistent Adversarial Networks for Zero-Shot Learning from Natural Language]("https://arxiv.org/pdf/1909.09822"), WACV 2020
+* **Zhi Chen**, Jingjing Li, Yadan Luo, Zi Huang, Yang Yang, [CANZSL: Cycle-Consistent Adversarial Networks for Zero-Shot Learning from Natural Language](https://arxiv.org/pdf/1909.09822), WACV 2020
 * Jie Wen, Zheng Zhang, **Zhi Chen**, Li Liu, Zi Huang, Lunke Fei, Generalized IncompleteMulti-view Clustering with Flexible Locality Structure Diffusion, Under Review In IEEE Transaction on Multimedia
-* **Zhi Chen**, Yadan Luo, [Cycle-Consistent Diverse Image Synthesis from Natural Language]("https://ieeexplore.ieee.org/iel7/8777006/8794861/08795022.pdf"), ICMEW 2019
+* **Zhi Chen**, Yadan Luo, [Cycle-Consistent Diverse Image Synthesis from Natural Language](https://ieeexplore.ieee.org/iel7/8777006/8794861/08795022.pdf), ICMEW 2019
 
 
 Project Experience
@@ -46,7 +46,7 @@ Australia has a strict standard of drainage system rules, houses in different la
   * Gained urban engineering knowledge by participating in this project.
 
 * **Interior Design Company Website Development**
-FULL STACK DEVELOPMENT(Feb. 2018 - Jul. 2018)
+FULL STACK DEVELOPMENT (Feb. 2018 - Jul. 2018)
 I led a three person team building a complete website for ESY interior design. The website enables clients to view previous decoration casesand communicate with staff online.
   * Achieved Project Excellence Awards in course Web Information System in UQ with this project
   * Implemented in-site search and online chat by Web Crawler and Web socket respectively.
@@ -78,9 +78,9 @@ Honours & Awards
 ------
 **MASTER PERIOD**
 * 2018 S2 Dean’s Commendation for Academic Excellence, Faculty of EAIT
-* 2018 S1Dean’s Commendation for Academic Excellence, Faculty of EAIT
+* 2018 S1 Dean’s Commendation for Academic Excellence, Faculty of EAIT
 * 2018 Project Excellence Awards, Project Demonstration in UQ course INFS3202
-* 2017 S1Dean’s Commendation for Academic Excellence, Faculty of EAIT
+* 2017 S1 Dean’s Commendation for Academic Excellence, Faculty of EAIT
 
 **BACHELOR PERIOD**
 * 2016 Excellent Graduate, Anhui University of Finance and Economics
