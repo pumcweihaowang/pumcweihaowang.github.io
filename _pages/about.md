@@ -78,7 +78,7 @@ Honours & Awards
 ------
 **PhD**
 * Data Science Research Workshop, Session 4 Best Presentation, 11 November 2019.
-
+* Australasian Computer Science Week (ACSW), Student Travel Award, 2020
 **MASTER PERIOD**
 * 2018 S2 Dean’s Commendation for Academic Excellence, Faculty of EAIT
 * 2018 S1 Dean’s Commendation for Academic Excellence, Faculty of EAIT
