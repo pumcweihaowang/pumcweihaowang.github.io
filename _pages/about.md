@@ -15,14 +15,15 @@ His research interests mainly include zero-shot learning, image generation, imag
 
 Teaching Experience
 ======
-* Semester 1, 2019 - INFS3202/7202 Web information systems
-* Semester 2, 2019 - INFS3208/7208 Cloud Computing
+* Semester 1, 2020 - INFS3202/7202 Web information systems
 * Semester 1, 2020 - Master Thesis Project
+* Semester 2, 2019 - INFS3208/7208 Cloud Computing
+* Semester 1, 2019 - INFS3202/7202 Web information systems
+
+
 
 Publication
 ======
-
-
 * **Zhi Chen**, Jingjing Li, Yadan Luo, Zi Huang, Yang Yang, [CANZSL: Cycle-Consistent Adversarial Networks for Zero-Shot Learning from Natural Language](https://arxiv.org/pdf/1909.09822), WACV 2020
 * Jie Wen, Zheng Zhang, **Zhi Chen**, Li Liu, Zi Huang, Lunke Fei, Generalized IncompleteMulti-view Clustering with Flexible Locality Structure Diffusion, Under Review In IEEE Transaction on Multimedia
 * **Zhi Chen**, Yadan Luo, [Cycle-Consistent Diverse Image Synthesis from Natural Language](https://ieeexplore.ieee.org/iel7/8777006/8794861/08795022.pdf), ICMEW 2019
