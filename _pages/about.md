@@ -38,7 +38,11 @@ Certifications
 
 Honours & Awards
 ------
-**PhD**
+
+**Visiting Scholar**
+* Visiting Scholar in School of Biomedical Science, University of Queensland, Brisbane, Austrilia in 2019-2020
+
+**MD**
 * First class scholarship in Peking Union Medical College, November 2019.
 * Won the sixth place in the final of the North China Hospital Speech Competition in 2018
 * Won the 2018 outstanding medical record award of Beijing hospital
@@ -46,7 +50,6 @@ Honours & Awards
 
 **MASTER PERIOD**
 * 2015-2018 Tianjin Medical University
-
 
 **BACHELOR PERIOD**
 * 2010-2015 Second Class Scholarship, Binzhou Medical College
