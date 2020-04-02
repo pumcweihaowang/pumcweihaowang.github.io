@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhi Chen's Page"
+title: "Weihao Wang's Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
