@@ -7,88 +7,46 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Zhi Chen is a currently a PhD student in School of ITEE, The University of Queensland, supervised by [A/Prof. Helen Huang](http://staff.itee.uq.edu.au/huang/). He also received his Master degree from the University of Queensland.
+Weihao Wang is a currently a MD student in Beijing Hospital, Peking Union Medical College supervised by [Prof. Lixin Guo]. 
 
-His research interests mainly include zero-shot learning, image generation, image captioning, computer vision & deep learning.
+His research interests mainly include endocrinology, diabetes, obesity, growth hormone, sleep deprivation.
 
 
-
-Teaching Experience
-======
-* Semester 1, 2020 - INFS3202/7202 Web information systems
-* Semester 1, 2020 - Master Thesis Project
-* Semester 2, 2019 - INFS3208/7208 Cloud Computing
-* Semester 1, 2019 - INFS3202/7202 Web information systems
 
 
 
 Publication
 ======
-* **Zhi Chen**, Jingjing Li, Yadan Luo, Zi Huang, Yang Yang, [CANZSL: Cycle-Consistent Adversarial Networks for Zero-Shot Learning from Natural Language](https://arxiv.org/pdf/1909.09822), WACV 2020
-* Jie Wen, Zheng Zhang, **Zhi Chen**, Li Liu, Zi Huang, Lunke Fei, Generalized IncompleteMulti-view Clustering with Flexible Locality Structure Diffusion, Under Review In IEEE Transaction on Multimedia
-* **Zhi Chen**, Yadan Luo, [Cycle-Consistent Diverse Image Synthesis from Natural Language](https://ieeexplore.ieee.org/iel7/8777006/8794861/08795022.pdf), ICMEW 2019
+* Wang W, Liu H, Xiao S, et al. Effects of insulin plus glucagon-like peptide-1 receptor agonists (GLP-1RAs) in treating type 1 diabetes mellitus: a systematic review and meta-analysis[J]. Diabetes Therapy, 2017, 8(4): 727-738.
+* Wang W, Li J, Chen X, et al. Whole grain food diet slightly reduces cardiovascular risks in obese/overweight adults: a systematic review and meta-analysis[J]. BMC Cardiovascular Disorders, 2020, 20(1): 1-11.
+* Wang W, Zhang L, Wang X, et al. Functional network analysis of gene‑phenotype connectivity based on pioglitazone[J]. Experimental and Therapeutic Medicine, 2019, 18(6): 4790-4798.
 
-
-Project Experience
+Research Experience
 ------
-* **GovHack Website 2019**
-Full STACK DEVELOPMENT (Jul. 2018 - Nov. 2018)
-GovHack is an open data hackathon, focused on unlocking the value in open data published by government. Due to the increasing scale ofcompetition and participants, the current website no longer satisfies the functionalities demand of users and complex usage scenarios.
-  * Deployed on AWS EC2 instance, connecting to AWS RDS database service.
-  * Adopted Codeigniter as PHP back-end framework and PostgreSQL as database management system.
-  * Developed with Agile Framework Scrum, which effectively boosts productivity of development team.
-  * Enriched more functionalities than the 2018 website, enabled competitor users to participate in challenges online.
+* The research "LncRNA MEG3 Expression Difference and Related Function Analysis under Different Glucose Metabolic States" was selected as the paper compilation and exchange in the 9th Forum of Young and Middle-aged Diabetists of Chinese Medical Association Diabetes Society in 2018.
+* The research "Analysis of LncRNA MEG3 Expression Differences and Related Functions in Different Glucose Metabolic States" was selected as the wall newspaper communication in the 22nd Annual Meeting of Diabetes Society of Chinese Medical Association in 2018.
+* The research “Functional network analysis of gene-phenotype connectivity concatenated by pioglitazone” was selected as the wall newspaper communication in 2019 Korean Busan IDF Annual Conference
+* The research "Evaluation of the safety of SGLT-2 inhibitors for treating patients with type 1 diabetes" was selected as the wall newspaper communication in 2019 Korean Busan IDF Annual Conference
+* The research "Evaluation of the safety of SGLT-2 inhibitors for treating patients with type 1 diabetes" was selected as oral speech in 2019 Xiamen China Diabetes Society Conference
 
-* **Pump System Automatic Calculation**
-FULL STACK DEVELOPMENT (Jul. 2018 - Under Maintainance)
-Australia has a strict standard of drainage system rules, houses in different latitude and longitude with various sizes of roof have to match apump and pipe of a specific configuration. The current solution for picking pipe and pump is using a spread sheet, which is not user-friendly.I am developing a web interface for company Urban Environmental Solutions, enabling users to check a matched size of pump and pipe byentering their house informations.
-  * Working as part-time IT consultant of Urban Environmental Solutions to meet with their client, and analyse their requirements individually.
-  * Proposed a technical solution for this web interface.
-  * Gained urban engineering knowledge by participating in this project.
-
-* **Interior Design Company Website Development**
-FULL STACK DEVELOPMENT (Feb. 2018 - Jul. 2018)
-I led a three person team building a complete website for ESY interior design. The website enables clients to view previous decoration casesand communicate with staff online.
-  * Achieved Project Excellence Awards in course Web Information System in UQ with this project
-  * Implemented in-site search and online chat by Web Crawler and Web socket respectively.
-  * Hosted on AWS, with LAMP stack.
-
-* **Germinator: Rise of the Machines** 
-JAVA GAME DEVELOPMENT (Jul. 2018 - Nov. 2018)
-This project aims to develop a multi-player game in Java which is very similar to Some features in PUGB and the Flat Earthers Society. It isworth mentioning that the game is developed by a 40 person team, and using KANBAN as agile developing framework to reduce the chance oflarge-scale failures.
-  * UQ ITEE Innovation Showcase 2018 Nominee
-  * Developed on Java game engine Libgdx, improved code quality by SonarQube, automated the non-human part of the software developmentprocess by Jenkins, and used version control tool SourceTree.
-  * Was in charge of AI spawning and Database management aspects.
-  * Available: https://gitlab.com/uqdeco2800/deco2800-2018-naziah
-
-* **Koala Sighting Website Proposal** 
-PROPOSED FOR DEPARTMENT OF ENVIRONMENT AND SCIENCE, QUEENSLAND GOVERNMENT.(Feb. 2018 - Jul. 2018)
-As koalas become endangered, it is urgent to take actions to protect them. The department of Environment and Science is in charge of leadingthe development of science strategy for government. In order to collect more data about koala behavior in Queensland and for further analysis,a website is to be built for public to report koala sighting.
-  * Proposed feasible solutions for the website including high fidelity prototype, user experience, budget management, etc.
-  * Provided technical consultation to the representative in Department of Environment and Science.
-
-Internship
-------
-Research Institute of Robot Intelligent Technology, Jinan University (Guangzhou, China)
-RESEARCH ASSISTANTDec. 2017 - Jan. 2018
-  * Adopted deep learning in 3D cloud point detection problem.
-  * Surveyed state-of-the-art 3D deep learning methods.
-  * Performed data preprocessing of industrial material for object detection.
+Certifications
+--------
+* Certificate of medical practitioner
+* Certificate of standardized training for resident physicians
+* Clinical trial GCP certificate
+* CET-4 CET-6
 
 Honours & Awards
 ------
 **PhD**
-* Data Science Research Workshop, Session 4 Best Presentation, 11 November 2019.
-* Australasian Computer Science Week (ACSW), Student Travel Award, 2020.
+* First class scholarship in Peking Union Medical College, November 2019.
+* Won the sixth place in the final of the North China Hospital Speech Competition in 2018
+* Won the 2018 outstanding medical record award of Beijing hospital
+* Won the first class prize in the speech contest for evaluating nursing quality in Beijing Hospital in 2019
 
 **MASTER PERIOD**
-* 2018 S2 Dean’s Commendation for Academic Excellence, Faculty of EAIT
-* 2018 S1 Dean’s Commendation for Academic Excellence, Faculty of EAIT
-* 2018 Project Excellence Awards, Project Demonstration in UQ course INFS3202
-* 2017 S1 Dean’s Commendation for Academic Excellence, Faculty of EAIT
+* 2015-2018 Tianjin Medical University
+
 
 **BACHELOR PERIOD**
-* 2016 Excellent Graduate, Anhui University of Finance and Economics
-* 2015 Pacemaker to Merit Student, Anhui University of Finance and Economics
-* 2015 First Prize for Excellent Study, Students’ Affairs Office, Anhui University of Finance and Economics
-* 2014 Excellent Student Leader, Anhui University of Finance and Economics
+* 2010-2015 Second Class Scholarship, Binzhou Medical College
